@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h> // to make an input
 #include <string.h> // to get a length count
+#include "utils.h"
 
 int main()
 {
