@@ -29,7 +29,7 @@ int flag(int number)
 
 int main()
 {
-    clearTerminal();
+    clearTerminal(); 
 
     // user input
     int number_user;
